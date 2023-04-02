@@ -1,0 +1,56 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>alpha</th>
+      <th>beta</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Major topics</td>
+      <td>Demographics of the world Demographic transition Estimates of historical world population Population growth Population momentum World population</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Biology andrelated topics</td>
+      <td>Population biology Population decline Population density Physiological density Population dynamics Population model Population pyramid Projections of population growth</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Populationecology</td>
+      <td>Earth's energy budget I = P × A × T Kaya identity Malthusian growth model Overshoot (population) World3 model</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Society and population</td>
+      <td>Biocapacity Human overpopulation Malthusian catastrophe Human population planning Compulsory sterilization Family planning One-child policy Two-child policy Overconsumption Population ethics Antinatalism Reproductive rights Sustainable population Zero population growth</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Publications</td>
+      <td>Population and Environment Population and Development Review</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Lists</td>
+      <td>Population and housing censuses by country Largest cities World population milestones 6 billion 7 8 Population concern organizations</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Events andorganizations</td>
+      <td>7 Billion Actions Church of Euthanasia International Conference on Population and Development Population Action International Population Connection Population Matters United Nations Population Fund United Nations world population conferences Voluntary Human Extinction Movement World Population Conference World Population Day World Population Foundation</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Related topics</td>
+      <td>Bennett's law Green Revolution Human impact on the environment Migration Sustainability</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Commons  Category</td>
+      <td>Commons  Category</td>
+    </tr>
+  </tbody>
+</table>
